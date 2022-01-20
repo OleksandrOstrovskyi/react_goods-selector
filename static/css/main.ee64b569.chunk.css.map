@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,MACE,eAAgB,CAChB,cAAe,CAChB,UAGC,qBAAwB,CACzB,QAGC,iBAAkB","file":"main.ee64b569.chunk.css","sourcesContent":[".list {\n  list-style: none;\n  font-size: 24px;\n}\n\n.selected {\n  background-color: yellow;\n}\n\n.hidden {\n  visibility: hidden;\n}\n"]}
